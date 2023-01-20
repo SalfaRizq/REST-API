@@ -1,0 +1,15 @@
+Salfa' Rizq Ramadhina (21201182/P)
+
+
+1. Pengertian REST API
+    - REST merupakan standart arsitektur komunikasi berbasis web, dapat memuat konten.
+    - API merupakan penghubung antara web dan mobile app nya
+    - REST API merupakan salah satu implementasi API yang memanfaatkan metode HTTP (GET, POST,
+      PUT, PATCH, DELETE) untuk berkomunikasi
+
+3. Headless Architecture adalah konsep untuk mengembangkan aplikasi perangkat lunak dengan memisahkan
+   bagian frontend (UI) dan backend (logika). Headless Architecture memiliki kelebihan, yaitu:
+    - Agnostic, yaitu kebebasan untuk memilih framework frontend apapun dan menggunakan layanan apapun
+      yang biasa digunakan developer.
+    - Scalability, ringan dan modular yang sepenuhnya bisa disesuiakan untuk tumbuh secara eksponsial.
+    - Agility, kinerja yang lebih cepat yang dapat mengurangi biaya
